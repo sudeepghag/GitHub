@@ -1,4 +1,4 @@
 # hellowworld
 First GitHub repo
 
-hmm...it is not that difficult.
+https://readwrite.com/2013/10/02/github-for-beginners-part-2/
