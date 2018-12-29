@@ -8,3 +8,9 @@ https://pandao.github.io/editor.md/en.html
 
 # Hello World - github example
 https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
+
+# Learn Git with BitBucket Cloud
+https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
+
+# Continuous Integration with Salesforce using Jenkins and Git
+http://www.jitendrazaa.com/blog/salesforce/continuous-integration-in-salesforce-using-jenkins-and-git-video-tutorial/
