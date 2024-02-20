@@ -1,3 +1,11 @@
+# clone repository from github
+https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+```
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+```
+
+
+
 # hellowworld
 
 https://stackoverflow.com/questions/3689838/whats-the-difference-between-head-working-tree-and-index-in-git/29625893
